@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuth", "UserAuth\UserAuth.csproj", "{28236EFB-511B-4712-9DA5-4C5B534FD9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{FDA48407-3766-443E-871F-C4123FFC24F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28236EFB-511B-4712-9DA5-4C5B534FD9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28236EFB-511B-4712-9DA5-4C5B534FD9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28236EFB-511B-4712-9DA5-4C5B534FD9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28236EFB-511B-4712-9DA5-4C5B534FD9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA48407-3766-443E-871F-C4123FFC24F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA48407-3766-443E-871F-C4123FFC24F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA48407-3766-443E-871F-C4123FFC24F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA48407-3766-443E-871F-C4123FFC24F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB9F6A7-87BA-44E2-B2E2-7E0EF0D28683}
+	EndGlobalSection
+EndGlobal
